@@ -44,8 +44,8 @@ This dashboard is designed for efficiency, providing quick access to all critica
 
 The provided Swagger URLs do not violate any security concerns as they only showcase test data and servers designed explicitly for portfolio purposes.
 
-- **Backend Swagger URL**: [http://144.91.65.218:5081/swagger/index.html](#)
-- **Frontend Access URL**: [http://144.91.65.218:5082/sign-in](#)
+- **Backend Swagger URL**: [Link](http://144.91.65.218:5081/swagger/index.html)
+- **Frontend Access URL**: [Link](http://144.91.65.218:5082/sign-in)
   - **Login Credentials**: 
     - **Username**: shubham@gmail.com
     - **Password**: Shubham@123456
